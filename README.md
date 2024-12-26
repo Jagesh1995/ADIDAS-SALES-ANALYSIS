@@ -1,15 +1,15 @@
 # ADIDAS-SALES-ANALYSIS
 <br>
 BUSINESS REQUIREMENTS:-
-Through this Power BI-driven analysis, Adidas aims to empower its decisionmakers with data-driven insights, fortesting stategic growth and competitiveness int he dynamic sports and athletic industry.
-* Enhance understanding of sales dynamics and performance drivens.
-* Identification of geographical areas with high and low sales potential.
-* Insights into product performance, aiding in inventory and marketing decisions.
-* Informed pricing and margin strategies for improved profitability.
-* Actionable recommendations for optimizing sales and profit across various dimensions
+ Through this Power BI-driven analysis, Adidas aims to empower its decisionmakers with data-driven insights, fortesting stategic growth and competitiveness int he dynamic sports and athletic industry.
+ * Enhance understanding of sales dynamics and performance drivens.
+ * Identification of geographical areas with high and low sales potential.
+ * Insights into product performance, aiding in inventory and marketing decisions.
+ * Informed pricing and margin strategies for improved profitability.
+ * Actionable recommendations for optimizing sales and profit across various dimensions
 
 PROBLAM STATEMENT:-
-KPI's(Key Point Indicators)
+ KPI's(Key Point Indicators)
 1 Total sales analysis:
   * Understand the overall sales performance of Adidas over time
 2 ProfitablityAnalysis:
@@ -22,7 +22,7 @@ KPI's(Key Point Indicators)
   * Evaluate the average margin to understand the overall profitablity of sales.
 
 PROBLAM STATEMENT:-
-Charts Requirements
+ Charts Requirements
 1 Total sales by month (Area Chart):
   * Visualize the monthly distribution of total sales to identify peak periods.
 2 Total sales by States (filled map):
